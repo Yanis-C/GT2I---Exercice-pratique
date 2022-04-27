@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>gt_notify</name>
+    <displayName><![CDATA[Gt2i - vrai Module d&#039;alerte email]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Module de l&#039;entreprise Gt2i, g&eacute;rant l&#039;envoi de mail apr&egrave;s diverses actions.]]></description>
+    <author><![CDATA[Yanis C]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

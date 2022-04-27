@@ -1,0 +1,1 @@
+# Gt2i - Notifications Emails
