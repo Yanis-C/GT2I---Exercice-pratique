@@ -1,4 +1,4 @@
-# GT2I---Exercice-pratique
+# GT2I - Exercice-pratique
 
 Ce repository contient les dossiers correspondant aux exercices de l'épreuve pratique de l'entreprise GT2i.
 
